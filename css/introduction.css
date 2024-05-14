@@ -1,0 +1,86 @@
+.introduction-main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 50px;
+}
+
+.introduction-text-1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #474665;
+}
+
+.introduction-text-2{
+    font-size: 15px;
+    color: #6C6C6C;
+}
+
+
+.introduction-section-2{
+    background-image: url('../img/img-8.png');
+    height: auto;
+    padding-bottom: 50px;
+}
+
+
+.introduction-content-4 p{
+    color: #474665;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding: 50px;
+}
+
+.introduction-cards-main-div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.introduction-content-cards-1{
+    height: 350px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.introduction-content-cards{
+    height: 390px;
+    background: linear-gradient(150deg, #E0C3FC, #8EC5FC); 
+    width: 300px;
+    border-radius: 10px;
+}
+
+.introduction-content-cards-wrapper{
+    padding: 30px;
+}
+
+.card-context-button{
+    font-size: 20px;
+    background-color: #474665;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.card-title{
+    font-size: 30px;
+    font-weight: bold;
+    color: #474665;
+    margin-bottom: 20px;
+}
+
+.card-context{
+    color: #6C6C6C;
+    font-size: 15px;
+}
+
+.card-context-2{
+    color: #474665;
+    font-size: 25px;
+    line-height: 35px;
+    padding-bottom: 20px;
+}

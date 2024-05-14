@@ -1,0 +1,41 @@
+.hero-section{
+    margin-top: 50px;
+}
+
+.hero-main-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.hero-button{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.hero-about-us{
+    background-color: #C90418;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.hero-services{
+    box-shadow: 0 0 0 1px rgba(201, 4, 24);
+    padding: 10px;
+    border-radius: 10px;
+    color: #C90418;
+    font-weight: bold;
+}
+
+
+.hero-text-1{
+    font-size: 50px;
+    font-weight: 600;
+    color: #474665;
+}

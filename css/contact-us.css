@@ -1,0 +1,67 @@
+.contact-us-section{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.contact-us-div{
+    padding: 40px;
+}
+.contact-us{
+    font-size: 40px;
+    color: #474665;
+    font-weight: bold;
+}
+
+.contact-us-title{
+    font-size: 25px;
+    padding: 40px;
+}
+
+.contact-us-separator{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+.contact-us-row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-us-col-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.contact-us-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    background-color: #F0F0F0;
+    border: solid 0.5px #474665;
+    height: 445px;
+    width: 430px;
+    border-radius: 5px;
+}
+
+.contact-us-form input, textarea{
+    height: 40px;
+    width: 360px;
+    border-radius: 5px;
+    border: solid 0px;
+    padding: 10px;
+    background-color: #F3F5FF;
+}
+
+.contact-us-text{
+    font-size: 25px;
+    padding: 10px;
+}

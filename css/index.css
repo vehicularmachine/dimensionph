@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Freeman&family=Poetsen+One&family=Roboto+Slab:wght@100..900&display=swap');
+
+*{
+    margin:  0 auto;
+    max-width: 1920px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Roboto Slab", serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}

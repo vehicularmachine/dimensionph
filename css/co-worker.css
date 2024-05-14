@@ -1,0 +1,44 @@
+.co-worker-main-div{
+    padding: 50px;
+}
+
+.co-worker-row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    gap: 20px;
+}
+
+.co-worker-content-1{
+    width: auto;
+}
+
+.co-worker-content-2{
+    font-size: 30px;
+}
+
+.co-worker-title{
+    font-size: 30px;
+    color: #474665;
+    font-weight: bold;
+}
+
+.co-worker-header{
+    margin-top: 20px;
+    font-size: 30px;
+    color: #474665;
+}
+
+.co-worker-header-content{
+    font-size: 14px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.co-worker-img{
+    width: auto;
+    height: 260px;
+    margin-top: 20px;
+}

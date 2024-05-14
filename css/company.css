@@ -1,0 +1,30 @@
+.company-section{
+    padding: 10px;
+    background-color: #8EC5FC;
+}
+
+.company-main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.company-content-1{
+    font-size: 23px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.company-content-2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.company-content-2 img{
+    width: auto;
+    height: 80px;
+}
